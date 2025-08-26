@@ -2,24 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20I'm%20Nikayel%20Ali&fontAlign=50&fontAlignY=40&color=gradient&animation=fadeIn" alt="Header banner"/>
 </p>
 
-### 🚀 About Me
-- 🔭 I’m currently working on **Ill talk about it later:)**
-- 👯 I’m looking to collaborate on **innovative projects**
-- 💬 Ask me about **Web Development**
-- 📫 How to reach me: **[alikayeljamal@gmail.com / NikayelAli]**
-- ⚡ Fun fact: *I love building, breaking, and fixing things.*
+| Coding GIF | GitHub Stats |
+|------------|--------------|
+| <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400"/> | <img src="https://github-readme-stats.vercel.app/api?username=Nikayel&show_icons=true&theme=tokyonight&include_all_commits=true" height="200"/> |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&section=footer&height=80&color=0:0f172a,100:0b1220" alt="" />
-
-
-
-
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+| Streak | Top Languages |
+|--------|---------------|
+| <img src="https://github-readme-streak-stats.herokuapp.com?user=Nikayel&theme=tokyonight" height="200"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikayel&layout=compact&theme=tokyonight" height="200"/> |
 
 ---
 
@@ -28,5 +17,5 @@
 ---
 
 ⭐️ From nikayel(https://github.com/Nikayel)
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square)
+
 
