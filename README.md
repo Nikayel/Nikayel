@@ -9,7 +9,8 @@
 - 📫 How to reach me: **[alikayeljamal@gmail.com / NikayelAli]**
 - ⚡ Fun fact: *I love building, breaking, and fixing things.*
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&section=footer&height=80&color=0:0f172a,100:0b1220" alt="" />
+
 
 
 
