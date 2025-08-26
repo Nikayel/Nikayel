@@ -2,22 +2,38 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # daily
-  workflow_dispatch:       # manual run
+    - cron: "0 0 * * *"      # daily
+  workflow_dispatch:          # manual run
 
 permissions:
-  contents: write          # needed to push to gh-pages
+  contents: write             # allow pushing to gh-pages
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout (not strictly needed but good practice)
+        uses: actions/checkout@v4
+
       - name: Generate snake.svg
         uses: Platane/snk@v3
         with:
           github_user_name: Nikayel
           outputs: |
             dist/snake.svg
+
+      # --- Diagnostics: prove the file exists in this run ---
+      - name: List output
+        run: |
+          echo "PWD:" && pwd
+          echo "Tree:" && ls -la
+          echo "Dist:" && ls -la dist || true
+
+      - name: Upload artifact (debug)
+        uses: actions/upload-artifact@v4
+        with:
+          name: snake-svg
+          path: dist/snake.svg
 
       - name: Publish to gh-pages
         uses: crazy-max/ghaction-github-pages@v4
