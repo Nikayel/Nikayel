@@ -1,4 +1,3 @@
-# Hi there 👋, I'm Nikayel
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20I'm%20Nikayel%20Ali&fontAlign=50&fontAlignY=40&color=gradient&animation=fadeIn" alt="Header banner"/>
 </p>
