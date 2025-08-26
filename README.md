@@ -8,6 +8,10 @@
 - ⚡ Fun fact: *I love building, breaking, and fixing things.*
 
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20I'm%20YOUR%20NAME&fontAlign=50&fontAlignY=40&color=gradient&animation=fadeIn" alt="Header banner"/>
+</p>
+
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
