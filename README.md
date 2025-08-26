@@ -13,6 +13,9 @@
 ---
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nikayel/Nikayel/gh-pages/snake.svg" alt="snake animation"/>
+</p>
 
 ---
 
