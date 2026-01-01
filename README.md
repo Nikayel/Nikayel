@@ -10,6 +10,5 @@
 | <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400"/> | <img src="https://github-readme-stats.vercel.app/api?username=Nikayel&show_icons=true&theme=tokyonight&include_all_commits=true" height="200"/> |
 
 
-⭐️ From nikayel(https://github.com/Nikayel)
 
 
