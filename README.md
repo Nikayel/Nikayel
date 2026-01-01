@@ -5,9 +5,8 @@
   <img src="https://raw.githubusercontent.com/Nikayel/Nikayel/gh-pages/snake.svg" alt="snake animation"/>
 </p>
 
-| This looks pretty cool |
-|------------|--------------|
-| <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400"/> ||
+
+| <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400"/> |
 
 
 
